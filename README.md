@@ -62,7 +62,7 @@ Clicking on the images will take you to the preview, not the download link
 # kyuki chef (private)
 <img src="https://i.imgur.com/isFoLrw.jpg"/>
 
-# mathi gabe edit (private possibly)
+# mathi gabe edit
 <img src="https://i.imgur.com/ukn4CqC.jpg"/>
 
 # megumic mokou remake (private)
