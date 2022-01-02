@@ -59,7 +59,7 @@ Clicking on the images will take you to the preview, not the download link
 # funoreo ends edit
 <img src="https://i.imgur.com/x36khhB.jpg"/>
 
-# kyuki chef (private possibly)
+# kyuki chef (private)
 <img src="https://i.imgur.com/isFoLrw.jpg"/>
 
 # mathi gabe edit (private possibly)
