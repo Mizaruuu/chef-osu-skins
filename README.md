@@ -1,2 +1,4 @@
 # skins
-skins i use. none of these skins are mine
+Links will be added soon
+-          # Enumi Chef
+<img src="https://i.imgur.com/rC7PV7r.jpg"/>
